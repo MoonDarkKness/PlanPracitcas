@@ -1,0 +1,9 @@
+names:
+- bache
+- basura
+- luminaria_danada
+nc: 3
+path: C:/Users/Lenovo/Downloads/incidencias-urbanas/backend/dataset
+test: images/test
+train: images/train
+val: images/val

@@ -1,0 +1,22 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/**/__pycache__/
+backend/.env
+backend/incidencias.db
+backend/app/static/uploads/*
+backend/app/static/results/*
+!backend/app/static/uploads/.gitkeep
+!backend/app/static/results/.gitkeep
+backend/train_yolo/runs/
+*.pt
+!yolov8n.pt
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Sistema
+.DS_Store
